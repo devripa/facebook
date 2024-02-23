@@ -45,8 +45,11 @@ font-weight: 800;
     border-radius: 5px;
 }
 .facebook-item form input{
-    padding: 10px 20px;
-    font-size: 16px;  
+    padding: 15px 20px;
+    font-size: 16px;
+    outline: 0;  
+    border-radius: 10px;
+    border: 1px solid #333;
 }
 .facebook-item form input:focus{
     border: 1px solid green;
